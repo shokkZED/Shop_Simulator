@@ -20,5 +20,6 @@ public class ShopService {
 
     public void addProduct(Product p) {
         productRepo.insert(p);
+        System.out.println();
     }
 }
