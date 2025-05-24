@@ -1,6 +1,6 @@
 <template>
   <div id="app-container">
-    <h1>Vue to Spark Java Shop Imitator</h1>
+    <h1>Vue to Spark Java Shop Simulator</h1>
 
     <div class="balance-section">
       <h2>Your balance: ${{ userBalance.toFixed(2) }}</h2>
